@@ -1,5 +1,5 @@
 ---
-title: "sss"
+title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The paper discusses unmanned aerial vehicles (UAVs) to collect and relay data from IoT devices to the network, focusing on scenarios where timely data updates are crucial. The study optimizes the Age-of-Updates (AoU) to maximise data freshness by carefully scheduling UAV positions and user associations. Unlike previous works that use binary association parameters, this approach assumes devices send updates based on a probability distribution, optimizing the expected AoU under service and energy constraints. The non-convex problem is solved using an interior-point method, with simulation results demonstrating the proposed approach's effectiveness compared to binary association methods.'
