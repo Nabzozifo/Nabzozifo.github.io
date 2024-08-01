@@ -2,7 +2,7 @@
 title: "Age-of-Updates optimization for UAV-assisted networks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'The paper discusses unmanned aerial vehicles (UAVs) to collect and relay data from IoT devices to the network, focusing on scenarios where timely data updates are crucial. The study optimizes the Age-of-Updates (AoU) to maximise data freshness by carefully scheduling UAV positions and user associations. Unlike previous works that use binary association parameters, this approach assumes devices send updates based on a probability distribution, optimizing the expected AoU under service and energy constraints. The non-convex problem is solved using an interior-point method, with simulation results demonstrating the proposed approach's effectiveness compared to binary association methods'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
