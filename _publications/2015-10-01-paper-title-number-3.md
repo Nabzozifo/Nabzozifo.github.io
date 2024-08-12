@@ -2,7 +2,7 @@
 title: "Ensemble DNN for Age-of-Information Minimization in UAV-assisted Networks"
 collection: publications
 permalink: /publication/2023-10-10-paper-number-3
-excerpt: 'This paper focuses on minimizing Age-of-Information (AoI) in UAV-assisted networks by optimizing UAV locations and device selection. It derives a closed-form expression for expected AoI and formulates a non-convex minimization problem with quality constraints. An Ensemble Deep Neural Network (EDNN) approach, using the problem's dual formulation, is proposed and shows a 29.5% improvement over traditional methods.'
+excerpt: 'This paper focuses on minimizing Age-of-Information (AoI) in UAV-assisted networks by optimizing UAV locations and device selection. It derives a closed-form expression for expected AoI and formulates a non-convex minimization problem with quality constraints. An Ensemble Deep Neural Network (EDNN) approach, using the problem's dual formulation, is proposed and shows a 29.5 improvement over traditional methods.'
 date: 2023-10-10
 venue: '2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)'
 slidesurl: ''
