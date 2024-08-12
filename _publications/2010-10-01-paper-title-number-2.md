@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Muti-agent proximal policy optimization for data freshness in UAV-assisted networks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+date: 2023-5-28
+venue: '2023 IEEE International Conference on Communications Workshops (ICC Workshops)'
+slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Ndiaye, M. N., Bergou, E. H., Ghogho, M., & El Hammouti, H. (2022, December). Age-of-Updates optimization for UAV-assisted networks. In <i>GLOBECOM 2022-2022 IEEE Global Communications Conference<\i> (pp. 450-455). IEEE.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Unmanned aerial vehicles (UAVs) have been proposed as a promising technology to collect data from IoT devices and relay it to the network. In this work, we are interested in scenarios where the data is updated periodically, and the collected updates are time-sensitive. In particular, the data updates may lose their value if they are not collected and analyzed timely. To maximize the data freshness, we optimize a new performance metric, namely the Age-of-Updates (AoU). Our objective is to carefully schedule the UAVs hovering positions and the users' association so that the AoU is minimized. Unlike existing works where the association parameters are considered as binary variables, we assume that devices send their updates according to a probability distribution. As a consequence, instead of optimizing a deterministic objective function, the objective function is replaced by an expectation over the probability distribution. The expected AoU is therefore optimized under quality of service and energy constraints. The original problem being non-convex, we propose an equivalent convex optimization that we solve using an interior-point method. Our simulation results show the performance of the proposed approach against a binary association.
