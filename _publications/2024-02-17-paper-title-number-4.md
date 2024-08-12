@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Age-of-Information in UAV-assisted Networks: a Decentralized Multi-Agent Optimization"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-4-21-paper-number-4
+excerpt: 'This paper addresses optimizing UAV trajectories and IoT device selection to minimize a weighted Age-of-Information (AoI) in wireless networks. Formulated as a Mixed-Integer Nonlinear Programming (MINLP) problem with time and quality of service constraints, it uses a distributed Multi-Agent Reinforcement Learning (MARL) approach. This method reduces communication overhead while achieving near-centralized performance.'
+date: 2024-4-21
+venue: '2024 IEEE Wireless Communications and Networking Conference (WCNC)'
+paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+citation: 'Ndiaye, M. N., Bergou, E. H., & El Hammouti, H. (2024, April). Age-of-Information in UAV-assisted Networks: a Decentralized Multi-Agent Optimization. In 2024 <i>IEEE Wireless Communications and Networking Conference (WCNC)<\i> (pp. 1-6). IEEE.).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Unmanned aerial vehicles (UAVs) are a highly promising technology with diverse applications in wireless networks. One of their primary uses is the collection of time-sensitive data from Internet of Things (IoT) devices. In UAV-assisted networks, the Age-of-Information (AoI) serves as a fundamental metric for quantifying data timeliness and freshness. In this work, we are interested in a generalized AoI formulation, where each packet's age is weighted based on its generation time. Our objective is to find the optimal UAVs' trajectories and the subsets of selected devices such that the weighted AoI is minimized. To address this challenge, we formulate the problem as a Mixed-Integer Nonlinear Programming (MINLP), incorporating time and quality of service constraints. To efficiently tackle this complex problem and minimize communication overhead among UAVs, we propose a distributed approach. This approach enables drones to make independent decisions based on locally acquired data. Specifically, we reformulate our problem such that our objective function is easily decomposed into individual rewards. The reformulated problem is solved using a distributed implementation of Multi-Agent Reinforcement Learning (MARL). Our empirical results show that the proposed decentralized approach achieves results that are nearly equivalent to a centralized implementation with a notable reduction in communication overhead.
