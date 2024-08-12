@@ -1,12 +1,12 @@
 ---
 title: "Ensemble DNN for Age-of-Information Minimization in UAV-assisted Networks"
 collection: publications
-permalink: /publication/2023-10-10-paper-number-3
+permalink: /publication/2023-10-10-paper-number-2
 excerpt: 'This paper optimizes UAV locations and device selection to minimize Age-of-Information (AoI) in UAV-assisted networks. An Ensemble Deep Neural Network (EDNN) approach achieves a 29.5% improvement over traditional methods.'
 date: 2023-10-10
 venue: '2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)'
 slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Ndiaye, M. N., Bergou, E. H., & El Hammouti, H. (2023, October). Ensemble DNN for Age-of-Information Minimization in UAV-assisted Networks. In <i>2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall)</i> (pp. 1-6). IEEE.'
 ---
 
