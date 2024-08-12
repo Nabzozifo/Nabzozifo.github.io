@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science, Mohammed VI Polytechnique University, BenGuerir, Morocco, 2024 (expected)
+* Engineer in Big Data and Business Intelligence, Nationale Institute of Statistics and Applied Economy, Rabat, Morroco, GitHub University, 2020
+* Preparatory Classes for Top Engineering Schools, CPGE Lycee My Idriss, Fes, Morocco, 2017
 
 Work experience
 ======
