@@ -6,7 +6,7 @@ excerpt: 'This paper optimizes UAV scheduling and device association to minimize
 date: 2023-5-28
 venue: '2023 IEEE International Conference on Communications Workshops (ICC Workshops)'
 slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Ndiaye, M. N., Bergou, E. H., Ghogho, M., & El Hammouti, H. (2022, December). Age-of-Updates optimization for UAV-assisted networks. In <i>GLOBECOM 2022-2022 IEEE Global Communications Conference</i> (pp. 450-455). IEEE.'
 ---
 
