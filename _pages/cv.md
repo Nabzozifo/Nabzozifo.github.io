@@ -17,36 +17,45 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March 2020 - August 2020: Intern
+  * Mohammed VI Polytechnique University
+  * Working on: Make machine learning systems, distributed, robust against attacks, manipulations and malfunctions (Recommender system, distributed SGD)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2019 - September 2019: Intern
+  * Crédit Agricole du Maroc (CDM)
+  * Working on: Implementation of an IT tool dedicated to the management of the follow-up of the recommendations of the internal and external control entities.
+  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2018 - August 2018: Intern
+  * Compagnie Sahélienne de l’Entreprise (CSE)
+  * Working on: Development of an application for the management of the quality management system (QMS) of the CSE.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematical and statistical modelling
+* Discrete and combinatorial optimisation
+* Operations research
+* Artificial Intelligence
+  * Machine Learning
+  * Deep Learning
+  * Reinforcement Learning
+* Business Intelligence
+  * ETL
+  * Data warehouse
+  * OLAP
+  * OLTP
+  * Data Lake
+* Business Analytics   
+* Big Data
+* Data Mining
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+---  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -58,7 +67,10 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+---
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President of Africa Intregation Club, Nationale Institute of Statistics and Applied Economy, 2018-2019
+* Statutory Auditor, General Union of Senegalese Students and Trainees in Morocco, 2019-2020
+* President of International Student Club, Mohammed VI Polytechnique University, 2023-2024
