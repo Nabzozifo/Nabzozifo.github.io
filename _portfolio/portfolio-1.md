@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "WCNC 2024"
+excerpt: "Presentation of our paper at the IEEE Wireless Communications and Networking Conference (WCNC) 2024, held from 21 to 24 April 2024 in Dubai, United Arab Emirates. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+IEEE Wireless Communications and Networking Conference (WCNC) is the world premier wireless event that brings together industry professionals, academics, and individuals from government agencies and other institutions to exchange information and ideas on wireless advancement communications and networking technology. Among all the conferences in the world (IEEE and otherwise) in the broad area of electronics and electrical engineering, WCNC ranks #7 among 773 conferences according to the impact score on Research.com.
