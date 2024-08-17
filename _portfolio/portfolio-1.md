@@ -1,6 +1,6 @@
 ---
 title: "WCNC 2024"
-excerpt: "Presentation of our paper at the IEEE Wireless Communications and Networking Conference (WCNC) 2024, held from 21 to 24 April 2024 in Dubai, United Arab Emirates. <br/><img src='/images/500x300.png'>"
+excerpt: "Presentation of our paper at the IEEE Wireless Communications and Networking Conference (WCNC) 2024, held from 21 to 24 April 2024 in Dubai, United Arab Emirates. <br/><img src='/images/IMG-20240423-WA0097.jpg'>"
 collection: portfolio
 ---
 
