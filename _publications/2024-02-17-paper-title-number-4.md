@@ -5,7 +5,7 @@ permalink: /publication/2024-4-21-paper-number-1
 excerpt: 'This paper optimizes UAV trajectories and IoT device selection to minimize weighted Age-of-Information (AoI) using Mixed-Integer Nonlinear Programming (MINLP). It employs a distributed Multi-Agent Reinforcement Learning (MARL) approach for near-centralized performance with lower communication overhead.'
 date: 2024-4-21
 venue: '2024 IEEE Wireless Communications and Networking Conference (WCNC)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://Nabzozifo.github.io/files/paper1.pdf'
 citation: 'Ndiaye, M. N., Bergou, E. H., & El Hammouti, H. (2024, April). Age-of-Information in UAV-assisted Networks: a Decentralized Multi-Agent Optimization. In 2024 <i>IEEE Wireless Communications and Networking Conference (WCNC)</i> (pp. 1-6). IEEE.).'
 ---
 
