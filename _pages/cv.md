@@ -23,12 +23,12 @@ Work experience
 
 * July 2019 - September 2019: Intern
   * Crédit Agricole du Maroc (CDM)
-  * Working on: Implementation of an IT tool dedicated to the management of the follow-up of the recommendations of the internal and external control entities.
+  * Working on the Implementation of an IT tool dedicated to the management of the follow-up of the recommendations of the internal and external control entities.
   
 
 * June 2018 - August 2018: Intern
   * Compagnie Sahélienne de l’Entreprise (CSE)
-  * Working on: Development of an application for the management of the quality management system (QMS) of the CSE.
+  * Working on the Development of an application for the management of the quality management system (QMS) of the CSE.
   
 Skills
 ======
@@ -57,6 +57,6 @@ Publications
   
 Service and leadership
 ======
-* President of Africa Intregation Club, Nationale Institute of Statistics and Applied Economy, 2018-2019
+* President of Africa Integration Club, Nationale Institute of Statistics and Applied Economy, 2018-2019
 * Statutory Auditor, General Union of Senegalese Students and Trainees in Morocco, 2019-2020
 * President of International Student Club, Mohammed VI Polytechnique University, 2023-2024
