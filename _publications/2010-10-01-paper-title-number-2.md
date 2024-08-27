@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: 'This paper optimizes UAV scheduling and device association to minimize Age-of-Updates (AoU) for time-sensitive IoT data. Using a probabilistic update model and convex optimization, the approach outperforms binary association methods.'
 date: 2023-5-28
 venue: '2023 IEEE International Conference on Communications Workshops (ICC Workshops)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://Nabzozifo.github.io/files/paper3.pdf'
 citation: 'Ndiaye, M. N., Bergou, E. H., & El Hammouti, H. (2023, May). Muti-agent proximal policy optimization for data freshness in UAV-assisted networks. In <i>2023 IEEE International Conference on Communications Workshops (ICC Workshops)</i> (pp. 1920-1925). IEEE.'
 ---
 
