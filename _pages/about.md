@@ -9,11 +9,11 @@ redirect_from:
 
 Who Am I?
 ------
-My name is Mouahmed Naby Ndiaye, and I am a Senegalese national. I am a computer engineer specializing in Big Data and Business Intelligence, with extensive expertise in these fields.
+I am a computer engineer specializing in Big Data and Business Intelligence. After earning my high school diploma with honors in the scientific stream, I pursued two years of intensive studies in mathematics and physics in a preparatory program for engineering schools. Following this, I attended engineering school, where I solidified my knowledge in applied mathematics and computer science. This strong foundation fueled my passion for research, driving me to explore ways to apply and integrate all these skills effectively.
 
 Current Academic Pursuit
 ------
-I am currently pursuing a doctoral degree in computer science, where my research is centered on optimizing the trajectories of drones that assist telecommunication networks. This work is crucial for enhancing the efficiency and effectiveness of data collection in various applications.
+I am currently pursuing a doctoral degree in computer science, where my research is centered on optimizing the trajectories of UAVs-assisyed networks. This work is crucial for enhancing the efficiency and effectiveness of data collection in various applications.
 
 My Research Focus
 ------
